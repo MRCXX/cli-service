@@ -1,7 +1,7 @@
 {
   "name": "@vue/cli-service",
-  "version": "3.8.0",
-  "description": "local service for vue-cli projects",
+  "version": "1.0.1",
+  "description": "local service for vue-cli projects base ver 3.8.0",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
   "bin": {
